@@ -13,6 +13,7 @@ import java.util.Set;
 
 @RestController
 @RequestMapping("/user")
+@CrossOrigin("*")
 public class userController {
 
     @Autowired
@@ -21,6 +22,7 @@ public class userController {
     private com.exam.repo.userRepository userRepository;
     @PostMapping("/")
     public User createUser(@RequestBody User user) throws Exception {
+       user.setProfile("default.png");
         Role role = new Role();
         role.setRoleId(45L);
         role.setRoleName("NORMAL");
@@ -46,4 +48,5 @@ public class userController {
         System.out.println(uid);
          this.userService.deleteUser(uid);
     }
+
 }
