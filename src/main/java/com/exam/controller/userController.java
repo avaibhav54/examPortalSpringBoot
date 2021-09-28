@@ -31,7 +31,6 @@ public class userController {
        user.setPassword(bCryptPasswordEncoder.encode(user.getPassword()));
 
         Role role = new Role();
-        role.setRoleId(45L);
         role.setRoleName("NORMAL");
         Set<userRole> userRoleSet=new HashSet<>();
         userRole userRole=new userRole();

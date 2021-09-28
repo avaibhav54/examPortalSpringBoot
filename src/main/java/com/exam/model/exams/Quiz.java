@@ -30,7 +30,7 @@ public class Quiz {
         this.questions = questions;
     }
 
-    @OneToMany(mappedBy = "quiz",fetch = FetchType.LAZY,cascade = CascadeType.ALL)
+    @OneToMany(mappedBy = "quiz",cascade = CascadeType.ALL)
     @JsonIgnore
     private Set<Question>questions =new HashSet<>();
 

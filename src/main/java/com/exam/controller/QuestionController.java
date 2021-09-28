@@ -26,10 +26,12 @@ public class QuestionController {
     @PostMapping("/")
     public ResponseEntity<?> addQuestion(@RequestBody Question question)
     {
+    	System.out.println("hidifjsidho");
+    	System.out.println(question);
         return ResponseEntity.ok(this.questionService.addQuestion(question));
     }
 
-    //update Quiz
+    //update question
     @PutMapping("/")
     public ResponseEntity<?> updateQuestion(@RequestBody Question question)
     {
@@ -53,6 +55,18 @@ public class QuestionController {
         return ResponseEntity.ok(list);
     }
 
+
+    @GetMapping("/quiz/all/{qid}")
+    public ResponseEntity<?> getAllQuestionsOfQuizAdmin(@PathVariable("qid") Long qid)
+    {
+      Quiz quiz=new Quiz();
+      quiz.setQid(qid);
+      Set<Question>list=this.questionService.getQuestionOfQuiz(quiz);
+
+        return ResponseEntity.ok(list);
+    }
+
+    
     //get a single question
     @GetMapping("/{qid}")
     public Question getQuestion(@PathVariable("qid") Long qid)
