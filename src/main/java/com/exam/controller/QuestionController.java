@@ -38,7 +38,7 @@ public class QuestionController {
         return ResponseEntity.ok(this.questionService.updateQuestion(question));
     }
 
-    //get quiz wise wuestions
+    //get quiz wise questions
     @GetMapping("/quiz/{qid}")
     public ResponseEntity<?> getAllQuestionsOfQuiz(@PathVariable("qid") Long qid)
     {

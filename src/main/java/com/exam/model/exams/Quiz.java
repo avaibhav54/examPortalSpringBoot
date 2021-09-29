@@ -4,7 +4,10 @@ package com.exam.model.exams;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
 import javax.persistence.*;
+
+import java.util.ArrayList;
 import java.util.HashSet;
+import java.util.List;
 import java.util.Set;
 
 @Entity
@@ -21,8 +24,20 @@ public class Quiz {
     private  String noOfQuestions;
     @ManyToOne(fetch = FetchType.EAGER)
     private  Category category;
+    
+    @OneToMany(mappedBy = "quiz",cascade = CascadeType.ALL)
+    @JsonIgnore
+    private List<Result>results=new ArrayList<>();
 
-    public Set<Question> getQuestions() {
+    public List<Result> getResults() {
+		return results;
+	}
+
+	public void setResults(List<Result> results) {
+		this.results = results;
+	}
+
+	public Set<Question> getQuestions() {
         return questions;
     }
 
