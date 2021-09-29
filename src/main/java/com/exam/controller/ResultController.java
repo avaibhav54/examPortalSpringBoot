@@ -48,5 +48,17 @@ public class ResultController {
 		
 	}
 	
+	@GetMapping("/{qid}")
+	public ResponseEntity<?> getResultByQuiz(@PathVariable("qid") long qid)
+	{
+		Quiz quiz1=new Quiz();
+		quiz1.setQid(qid);
+		List<Result>lis=this.resultservice.getResultOfQuiz(quiz1);
+		return ResponseEntity.ok(lis);
+		
+	}
+	
+	
+	
 
 }
