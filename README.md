@@ -207,8 +207,8 @@ Table - Result
 - Users: Professors or anyone who has logged in with an Admin Profile
 - How to Get Here: Click on the ‘*Delete*’ button marked in red present on the right of the subject name
 
-![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.019.png)![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.022.png)
 
+![](WhatsApp Image 2021-10-08 at 8.02.27 PM.jpeg)
 ![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.023.png)
 
 
