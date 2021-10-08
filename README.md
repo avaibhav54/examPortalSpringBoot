@@ -245,29 +245,27 @@ Table - Result
   - Repeat this process to add further questions
 - Questions can be updated after adding by clicking on the ‘*Update*’ button within the ‘*Questions*’ *Page*
 
-![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.017.png)
+![](aq1.jpeg)
+![](aq2.jpeg)
+![](aq3.jpeg)
+![](aq4.jpeg)
+![](aq5.jpeg)
 
-![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.023.png)
 
-![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.018.png)
-
-![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.023.png)
-
-![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.017.png)
 ##
 
 ### Viewing Created Quizzes
 - Users: Professors or anyone who has logged in with an Admin Profile
 - How to Get Here: Click on the ‘*Quizzes*’ button from the menu on the left
 
-![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.017.png)
+![](viewcreate.jpeg)
 
 
 ### Updating Quiz Information
 - Users: Professors or anyone who has logged in with an Admin Profile
 - How to Get Here: Click on the ‘*Update*’ button from the row of buttons below the name of a created quiz within the Quizzes Page
 
-![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.024.png)![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.017.png)
+![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.024.png)![](upda.jpeg)
 
 
 ### Viewing the Result for a Quiz as a Professor
@@ -275,7 +273,7 @@ Table - Result
 - How to Get Here: From the “Quizzes” page, click on the “*View Result*” button below the name of the quiz you would like to see the results
 - The results will be shown student-wise in a tabular manner
 
-![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.017.png)
+![](respro.jpeg)
 
 
 ## Student Profile
@@ -284,7 +282,7 @@ Table - Result
 - Users: Students
 - How to Get Here: Click on the ‘*All Quizzes*’ button from the menu on the left
 
-![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.017.png)
+![](vall.jpeg)
 
 
 ### View Quizzes of a Particular Subject
@@ -300,24 +298,22 @@ Table - Result
 - Instructions for attempting the quiz will be shown on starting the quiz
 - To start answering questions, click on the “*Start Quiz*” button from the instructions page
 
-![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.017.png)
+![](s4.jpeg)
 
 - A confirmation pop-up will be displayed to start the quiz.
 - Click on the “*Start*” button to start. Else, click on the “*No*” button
 
-![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.021.png)
-
-
+![](s1.jpeg)
 
 - It is to be noted that the quiz will Auto Submit when the timer on the right side of the screen reaches 0
 
-![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.022.png)
+
+![](s2.jpeg)
 
 - The quiz will auto submit will submit automatically if tab is switched to ensure ethical attempts of the quiz
 - On submission, the results of the quiz are shown as a summary
 
-![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.017.png)
-
+![](s3.jpeg)
 
 ### Viewing the Result for a Quiz
 - Users: Students
