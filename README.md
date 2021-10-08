@@ -17,33 +17,33 @@ Portal for Examinations
 
 
 # Contents
-About the Software	2
-Software Design	2
-Software Optimizations	2
-Software Diagrams	3
-Flow of Control	3
-Entity Relationship Diagram	3
-Database Design	4
-Relationships Among Table within Database	7
-Demonstration Images of the Software	8
-Admin Profile	8
-Registration Page	8
-Login Page	9
-Welcome Page of Admin-Side	10
-Viewing Your Profile Details	11
-Adding a Subject	12
-Viewing Created Subjects	14
-Deleting a Created Subject	15
-Adding a Quiz	17
-Adding Questions to a Quiz	19
-Viewing Created Quizzes	22
-Updating Quiz Information	23
-Viewing the Result for a Quiz as a Professor	24
-Student Profile	25
-View All Quizzes	25
-View Quizzes of a Particular Subject	26
-Starting a Quiz	27
-Viewing the Result for a Quiz	29
+-  About the Software	
+-  Software Design	
+-  Software Optimizations	
+-  Software Diagrams	
+-  Flow of Control	
+-  Entity Relationship Diagram	
+-  Database Design	
+-  Relationships Among Table within Database	
+-  Demonstration Images of the Software
+-  Admin Profile	
+-  Registration Page	
+-  Login Page	
+-  Welcome Page of Admin-Side	
+-  Viewing Your Profile Details	
+-  Adding a Subject	
+-  Viewing Created Subjects	
+-  Deleting a Created Subject	
+-  Adding a Quiz	17
+-  Adding Questions to a Quiz	
+-  Viewing Created Quizzes	
+-  Updating Quiz Information	
+-  Viewing the Result for a Quiz as a Professor	
+-  Student Profile	
+-  View All Quizzes	
+-  View Quizzes of a Particular Subject	
+-  Starting a Quiz	
+-  Viewing the Result for a Quiz	
 
 
 
