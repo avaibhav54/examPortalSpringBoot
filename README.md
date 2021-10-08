@@ -14,60 +14,36 @@ Portal for Examinations
 ![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.001.png)![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.002.png)
 
 ![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.003.png)
+
+
 # Contents
-` `TOC \o "1-3" \h \z \u [About the Software	 PAGEREF _Toc84613211 \h 2](#_Toc84613211)
-
-[Software Design	 PAGEREF _Toc84613212 \h 2](#_Toc84613212)
-
-[Software Optimizations	 PAGEREF _Toc84613213 \h 2](#_Toc84613213)
-
-[Software Diagrams	 PAGEREF _Toc84613214 \h 3](#_Toc84613214)
-
-[Flow of Control	 PAGEREF _Toc84613215 \h 3](#_Toc84613215)
-
-[Entity Relationship Diagram	 PAGEREF _Toc84613216 \h 3](#_Toc84613216)
-
-[Database Design	 PAGEREF _Toc84613217 \h 4](#_Toc84613217)
-
-[Relationships Among Table within Database	 PAGEREF _Toc84613218 \h 7](#_Toc84613218)
-
-[Demonstration Images of the Software	 PAGEREF _Toc84613219 \h 8](#_Toc84613219)
-
-[Admin Profile	 PAGEREF _Toc84613220 \h 8](#_Toc84613220)
-
-[Registration Page	 PAGEREF _Toc84613221 \h 8](#_Toc84613221)
-
-[Login Page	 PAGEREF _Toc84613222 \h 9](#_Toc84613222)
-
-[Welcome Page of Admin-Side	 PAGEREF _Toc84613223 \h 10](#_Toc84613223)
-
-[Viewing Your Profile Details	 PAGEREF _Toc84613224 \h 11](#_Toc84613224)
-
-[Adding a Subject	 PAGEREF _Toc84613225 \h 12](#_Toc84613225)
-
-[Viewing Created Subjects	 PAGEREF _Toc84613226 \h 14](#_Toc84613226)
-
-[Deleting a Created Subject	 PAGEREF _Toc84613227 \h 15](#_Toc84613227)
-
-[Adding a Quiz	 PAGEREF _Toc84613228 \h 17](#_Toc84613228)
-
-[Adding Questions to a Quiz	 PAGEREF _Toc84613229 \h 19](#_Toc84613229)
-
-[Viewing Created Quizzes	 PAGEREF _Toc84613230 \h 22](#_Toc84613230)
-
-[Updating Quiz Information	 PAGEREF _Toc84613231 \h 23](#_Toc84613231)
-
-[Viewing the Result for a Quiz as a Professor	 PAGEREF _Toc84613232 \h 24](#_Toc84613232)
-
-[Student Profile	 PAGEREF _Toc84613233 \h 25](#_Toc84613233)
-
-[View All Quizzes	 PAGEREF _Toc84613234 \h 25](#_Toc84613234)
-
-[View Quizzes of a Particular Subject	 PAGEREF _Toc84613235 \h 26](#_Toc84613235)
-
-[Starting a Quiz	 PAGEREF _Toc84613236 \h 27](#_Toc84613236)
-
-[Viewing the Result for a Quiz	 PAGEREF _Toc84613237 \h 29](#_Toc84613237)
+About the Software	2
+Software Design	2
+Software Optimizations	2
+Software Diagrams	3
+Flow of Control	3
+Entity Relationship Diagram	3
+Database Design	4
+Relationships Among Table within Database	7
+Demonstration Images of the Software	8
+Admin Profile	8
+Registration Page	8
+Login Page	9
+Welcome Page of Admin-Side	10
+Viewing Your Profile Details	11
+Adding a Subject	12
+Viewing Created Subjects	14
+Deleting a Created Subject	15
+Adding a Quiz	17
+Adding Questions to a Quiz	19
+Viewing Created Quizzes	22
+Updating Quiz Information	23
+Viewing the Result for a Quiz as a Professor	24
+Student Profile	25
+View All Quizzes	25
+View Quizzes of a Particular Subject	26
+Starting a Quiz	27
+Viewing the Result for a Quiz	29
 
 
 
