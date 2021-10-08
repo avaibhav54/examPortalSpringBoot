@@ -1,6 +1,6 @@
 # examPortalSpringBoot
 exam portal  using  springboot angular java
-Page |  PAGE   \\* MERGEFORMAT **2**
+
 
 2021
 
@@ -11,7 +11,6 @@ Vaibhav Agarwal
 EXAM DOJO
 
 Portal for Examinations
-![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.001.png)![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.002.png)
 
 ![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.003.png)
 
@@ -195,14 +194,13 @@ Table - Result
 
 ![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.020.png)
 
-![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.021.png)
-
 
 ### Viewing Created Subjects
 - Users: Professors or anyone who has logged in with an Admin Profile
 - How to Get Here: Click on the ‘*Subjects*’ button from the menu on the left
 
-![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.017.png)
+
+![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.021.png)
 
 
 ### Deleting a Created Subject
