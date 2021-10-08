@@ -171,7 +171,7 @@ Table - Result
 ### Welcome Page of Admin-Side
 - Users: Professors or anyone who has logged in with an Admin Profile
 
-![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.017.png)
+![](welcome.jpeg)
 
 
 ### Viewing Your Profile Details
@@ -208,7 +208,7 @@ Table - Result
 - How to Get Here: Click on the ‘*Delete*’ button marked in red present on the right of the subject name
 
 
-![](WhatsApp Image 2021-10-08 at 8.02.27 PM.jpeg)
+![](delete.jpeg)
 
 ![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.023.png)
 
@@ -224,11 +224,9 @@ Table - Result
   - Subject that the quiz is part of
   - ‘Publish Status’ toggle will control whether the student is able to view the quiz on their profile
 
-![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.017.png)
-
-![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.017.png)
-
-![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.017.png)
+![](add1.jpeg)
+![](add2.jpeg)
+![](add3.jpeg)
 
 
 ### Adding Questions to a Quiz
